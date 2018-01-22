@@ -1,0 +1,1 @@
+rightif (getColor == “red”){	up	up	upif (getColor == “blue”){	right	up} else {	left	up}} else {	down	down	down	left	down}
