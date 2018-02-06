@@ -1,0 +1,1 @@
+//vertical-lines.jsvar counter = 10;while (counter <= width-10){  line(counter,10,counter,height-10)  counter=counter+10       }
